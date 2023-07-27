@@ -1,0 +1,6 @@
+framework module Pods_SplitViewControllerExample_SplitViewControllerExampleUITests {
+  umbrella header "Pods-SplitViewControllerExample-SplitViewControllerExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

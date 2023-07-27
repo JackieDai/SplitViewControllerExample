@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SplitViewControllerExample_SplitViewControllerExampleUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SplitViewControllerExample_SplitViewControllerExampleUITests
+@end
